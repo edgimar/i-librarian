@@ -1,0 +1,13 @@
+Linux users, make sure you have installed these packages from repositories:
+
+poppler-utils
+    -required for PDF indexing and for the built-in PDF viewer
+
+bibutils
+    - required for import/export from bibtex format
+
+ghostscript
+    - required for the built-in PDF viewer
+
+pdftk
+    - required for PDF bookmarks and watermarks 

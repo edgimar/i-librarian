@@ -1,0 +1,23 @@
+ul.jqueryFileTree {
+	line-height: 16px;
+	padding: 0px;
+	margin: 0px;
+}
+
+ul.jqueryFileTree li {
+	list-style: none;
+	padding: 0px;
+	padding-left: 18px;
+	margin: 0px;
+	white-space: nowrap;
+}
+
+ul.jqueryFileTree a {
+	color: #000;
+	text-decoration: none;
+	display: block;
+	padding: 0px 2px;
+}
+
+.jqueryFileTree li.wait { background: url(../img/ajaxloader.gif) left top no-repeat; }
+
